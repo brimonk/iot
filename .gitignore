@@ -1,0 +1,14 @@
+*.o
+*.d
+*.db
+*.db-shm
+*.db-wal
+*.so
+
+server
+meta
+
+.gdb*
+
+html/ui.js
+
